@@ -1,0 +1,1 @@
+A simple Angular project with shop categories layout.
